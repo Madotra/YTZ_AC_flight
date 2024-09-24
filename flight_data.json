@@ -1,5 +1,5 @@
 {
-    "update_time": "16:43",
+    "update_time": "16:53",
     "flights": [
         {
             "flight_number": "AC 7953",
@@ -30,13 +30,6 @@
             "status": "Arrived"
         },
         {
-            "flight_number": "AC 7709",
-            "origin_city": "Ottawa YOW",
-            "origin_time": "14:45",
-            "destination_time": "15:51",
-            "status": "Arrived"
-        },
-        {
             "flight_number": "AC 7969",
             "origin_city": "Montréal YUL",
             "origin_time": "15:30",
@@ -51,13 +44,6 @@
             "status": "Early"
         },
         {
-            "flight_number": "AC 7711",
-            "origin_city": "Ottawa YOW",
-            "origin_time": "17:40",
-            "destination_time": "18:44",
-            "status": "On time"
-        },
-        {
             "flight_number": "AC 7975",
             "origin_city": "Montréal YUL",
             "origin_time": "18:30",
@@ -65,17 +51,31 @@
             "status": "On time"
         },
         {
-            "flight_number": "AC 7713",
-            "origin_city": "Ottawa YOW",
-            "origin_time": "19:40",
-            "destination_time": "20:44",
-            "status": "On time"
-        },
-        {
             "flight_number": "AC 7979",
             "origin_city": "Montréal YUL",
             "origin_time": "20:15",
             "destination_time": "21:34",
+            "status": "On time"
+        },
+        {
+            "flight_number": "AC 7709",
+            "origin_city": "Ottawa YOW",
+            "origin_time": "14:45",
+            "destination_time": "15:51",
+            "status": "Arrived"
+        },
+        {
+            "flight_number": "AC 7711",
+            "origin_city": "Ottawa YOW",
+            "origin_time": "17:40",
+            "destination_time": "18:44",
+            "status": "On time"
+        },
+        {
+            "flight_number": "AC 7713",
+            "origin_city": "Ottawa YOW",
+            "origin_time": "19:40",
+            "destination_time": "20:44",
             "status": "On time"
         }
     ]
