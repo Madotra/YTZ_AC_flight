@@ -1,5 +1,5 @@
 {
-    "update_time": "08:38",
+    "update_time": "08:40",
     "flights": [
         {
             "flight_number": "AC 7953",
@@ -12,7 +12,7 @@
             "flight_number": "AC 7955",
             "origin_city": "Montréal YUL",
             "origin_time": "08:24",
-            "destination_time": "09:42",
+            "destination_time": "09:44",
             "status": "Early"
         },
         {
