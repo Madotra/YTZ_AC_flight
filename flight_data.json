@@ -107,7 +107,7 @@
         "origin_time": "17:36",
         "destination_time": "18:39",
         "scheduled_time": "18:44",
-        "status": "Early",
-        "arrival_time_difference": "3:07"
+        "status": "Delayed",
+        "arrival_time_difference": "0:07"
     }
 }
