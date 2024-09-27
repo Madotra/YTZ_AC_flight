@@ -1,5 +1,5 @@
 {
-    "update_time": "15:43",
+    "update_time": "15:55",
     "flights": [
         {
             "flight_number": "AC 7773",
@@ -203,19 +203,19 @@
             "flight_number": "AC 7709",
             "origin_city": "Ottawa YOW",
             "origin_time": "14:34",
-            "destination_time": "15:33",
-            "status": "Early",
+            "destination_time": "15:35",
+            "status": "Arrived",
             "scheduled_time": "15:44",
-            "arrival_time_difference": "0:11:00"
+            "arrival_time_difference": "0:09:00"
         },
         {
             "flight_number": "AC 415",
             "origin_city": "Montréal YUL",
             "origin_time": "14:17",
-            "destination_time": "15:47",
-            "status": "On time",
+            "destination_time": "15:46",
+            "status": "Arrived",
             "scheduled_time": "15:34",
-            "arrival_time_difference": "0:13:00"
+            "arrival_time_difference": "0:12:00"
         },
         {
             "flight_number": "AC 409",
@@ -239,10 +239,10 @@
             "flight_number": "AC 7969",
             "origin_city": "Montréal YUL",
             "origin_time": "15:29",
-            "destination_time": "16:40",
+            "destination_time": "16:39",
             "status": "Early",
             "scheduled_time": "16:49",
-            "arrival_time_difference": "0:09:00"
+            "arrival_time_difference": "0:10:00"
         },
         {
             "flight_number": "AC 895",
@@ -372,12 +372,12 @@
         }
     ],
     "next_flight": {
-        "flight_number": "AC 415",
+        "flight_number": "AC 409",
         "origin_city": "Montréal YUL",
-        "origin_time": "14:17",
-        "destination_time": "15:47",
-        "status": "On time",
-        "scheduled_time": "15:34",
-        "arrival_time_difference": "0:13:00"
+        "origin_time": "15:07",
+        "destination_time": "16:23",
+        "status": "Delayed",
+        "scheduled_time": "12:34",
+        "arrival_time_difference": "3:49:00"
     }
 }
