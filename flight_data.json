@@ -1,5 +1,5 @@
 {
-    "update_time": "16:09",
+    "update_time": "16:10",
     "flights": [
         {
             "flight_number": "AC 7953",
@@ -7,7 +7,8 @@
             "origin_time": "07:25",
             "destination_time": "08:40",
             "scheduled_time": "08:49",
-            "status": "Arrived"
+            "status": "Arrived",
+            "arrival_time_difference": "0:09:00"
         },
         {
             "flight_number": "AC 7955",
@@ -15,7 +16,8 @@
             "origin_time": "08:27",
             "destination_time": "09:40",
             "scheduled_time": "09:49",
-            "status": "Arrived"
+            "status": "Arrived",
+            "arrival_time_difference": "0:09:00"
         },
         {
             "flight_number": "AC 7705",
@@ -23,7 +25,8 @@
             "origin_time": "09:33",
             "destination_time": "10:37",
             "scheduled_time": "10:44",
-            "status": "Arrived"
+            "status": "Arrived",
+            "arrival_time_difference": "0:07:00"
         },
         {
             "flight_number": "AC 7959",
@@ -31,7 +34,8 @@
             "origin_time": "10:37",
             "destination_time": "11:58",
             "scheduled_time": "11:49",
-            "status": "Arrived"
+            "status": "Arrived",
+            "arrival_time_difference": "0:09:00"
         },
         {
             "flight_number": "AC 7965",
@@ -39,7 +43,8 @@
             "origin_time": "13:30",
             "destination_time": "14:54",
             "scheduled_time": "14:49",
-            "status": "Arrived"
+            "status": "Arrived",
+            "arrival_time_difference": "0:05:00"
         },
         {
             "flight_number": "AC 7709",
@@ -47,7 +52,8 @@
             "origin_time": "14:34",
             "destination_time": "15:35",
             "scheduled_time": "15:44",
-            "status": "Arrived"
+            "status": "Arrived",
+            "arrival_time_difference": "0:09:00"
         },
         {
             "flight_number": "AC 7969",
@@ -55,7 +61,8 @@
             "origin_time": "15:29",
             "destination_time": "16:39",
             "scheduled_time": "16:49",
-            "status": "Early"
+            "status": "Early",
+            "arrival_time_difference": "0:10:00"
         },
         {
             "flight_number": "AC 7971",
@@ -63,7 +70,8 @@
             "origin_time": "16:30",
             "destination_time": "17:49",
             "scheduled_time": "17:49",
-            "status": "On time"
+            "status": "On time",
+            "arrival_time_difference": "0:00:00"
         },
         {
             "flight_number": "AC 7711",
@@ -71,7 +79,8 @@
             "origin_time": "17:40",
             "destination_time": "18:44",
             "scheduled_time": "18:44",
-            "status": "On time"
+            "status": "On time",
+            "arrival_time_difference": "0:00:00"
         },
         {
             "flight_number": "AC 7975",
@@ -79,7 +88,8 @@
             "origin_time": "18:30",
             "destination_time": "19:49",
             "scheduled_time": "19:49",
-            "status": "On time"
+            "status": "On time",
+            "arrival_time_difference": "0:00:00"
         },
         {
             "flight_number": "AC 7713",
@@ -87,7 +97,8 @@
             "origin_time": "19:40",
             "destination_time": "20:44",
             "scheduled_time": "20:44",
-            "status": "On time"
+            "status": "On time",
+            "arrival_time_difference": "0:00:00"
         }
     ],
     "next_flight": {
@@ -96,6 +107,7 @@
         "origin_time": "15:29",
         "destination_time": "16:39",
         "scheduled_time": "16:49",
-        "status": "Early"
+        "status": "Early",
+        "arrival_time_difference": "0:10:00"
     }
 }
