@@ -1,11 +1,12 @@
 {
-    "update_time": "14:26",
+    "update_time": "14:32",
     "flights": [
         {
             "flight_number": "AC 7953",
             "origin_city": "Montréal YUL",
             "origin_time": "07:25",
             "destination_time": "08:40",
+            "scheduled_time": "07:30",
             "status": "Arrived"
         },
         {
@@ -13,6 +14,7 @@
             "origin_city": "Montréal YUL",
             "origin_time": "08:27",
             "destination_time": "09:40",
+            "scheduled_time": "08:30",
             "status": "Arrived"
         },
         {
@@ -20,6 +22,7 @@
             "origin_city": "Ottawa YOW",
             "origin_time": "09:33",
             "destination_time": "10:37",
+            "scheduled_time": "09:40",
             "status": "Arrived"
         },
         {
@@ -27,6 +30,7 @@
             "origin_city": "Montréal YUL",
             "origin_time": "10:37",
             "destination_time": "11:58",
+            "scheduled_time": "10:30",
             "status": "Arrived"
         },
         {
@@ -34,6 +38,7 @@
             "origin_city": "Montréal YUL",
             "origin_time": "13:30",
             "destination_time": "14:58",
+            "scheduled_time": "13:30",
             "status": "On time"
         },
         {
@@ -41,6 +46,7 @@
             "origin_city": "Ottawa YOW",
             "origin_time": "14:40",
             "destination_time": "15:44",
+            "scheduled_time": "15:44",
             "status": "On time"
         },
         {
@@ -48,6 +54,7 @@
             "origin_city": "Montréal YUL",
             "origin_time": "15:30",
             "destination_time": "16:49",
+            "scheduled_time": "16:49",
             "status": "On time"
         },
         {
@@ -55,6 +62,7 @@
             "origin_city": "Montréal YUL",
             "origin_time": "16:30",
             "destination_time": "17:49",
+            "scheduled_time": "17:49",
             "status": "On time"
         },
         {
@@ -62,6 +70,7 @@
             "origin_city": "Ottawa YOW",
             "origin_time": "17:40",
             "destination_time": "18:44",
+            "scheduled_time": "18:44",
             "status": "On time"
         },
         {
@@ -69,6 +78,7 @@
             "origin_city": "Montréal YUL",
             "origin_time": "18:30",
             "destination_time": "19:49",
+            "scheduled_time": "19:49",
             "status": "On time"
         },
         {
@@ -76,6 +86,7 @@
             "origin_city": "Ottawa YOW",
             "origin_time": "19:40",
             "destination_time": "20:44",
+            "scheduled_time": "20:44",
             "status": "On time"
         }
     ],
@@ -84,6 +95,7 @@
         "origin_city": "Montréal YUL",
         "origin_time": "13:30",
         "destination_time": "14:58",
+        "scheduled_time": "13:30",
         "status": "On time"
     }
 }
