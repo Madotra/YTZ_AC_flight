@@ -45,16 +45,16 @@
             "flight_number": "AC 7709",
             "origin_city": "Ottawa YOW",
             "origin_time": "14:34",
-            "destination_time": "15:33",
+            "destination_time": "15:34",
             "status": "Early",
             "scheduled_time": "15:44"
         },
         {
             "flight_number": "AC 7969",
             "origin_city": "Montréal YUL",
-            "origin_time": "15:29",
-            "destination_time": "16:40",
-            "status": "Early",
+            "origin_time": "15:30",
+            "destination_time": "16:49",
+            "status": "On time",
             "scheduled_time": "16:49"
         },
         {
@@ -93,9 +93,9 @@
     "next_flight": {
         "flight_number": "AC 7969",
         "origin_city": "Montréal YUL",
-        "origin_time": "15:29",
-        "destination_time": "16:40",
-        "status": "Early",
+        "origin_time": "15:30",
+        "destination_time": "16:49",
+        "status": "On time",
         "scheduled_time": "16:49"
     }
 }
