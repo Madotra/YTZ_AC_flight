@@ -1,5 +1,5 @@
 {
-    "update_time": "15:36",
+    "update_time": "15:43",
     "flights": [
         {
             "flight_number": "AC 7773",
@@ -212,10 +212,10 @@
             "flight_number": "AC 415",
             "origin_city": "Montréal YUL",
             "origin_time": "14:17",
-            "destination_time": "15:45",
+            "destination_time": "15:47",
             "status": "On time",
             "scheduled_time": "15:34",
-            "arrival_time_difference": "0:11:00"
+            "arrival_time_difference": "0:13:00"
         },
         {
             "flight_number": "AC 409",
@@ -375,9 +375,9 @@
         "flight_number": "AC 415",
         "origin_city": "Montréal YUL",
         "origin_time": "14:17",
-        "destination_time": "15:45",
+        "destination_time": "15:47",
         "status": "On time",
         "scheduled_time": "15:34",
-        "arrival_time_difference": "0:11:00"
+        "arrival_time_difference": "0:13:00"
     }
 }
