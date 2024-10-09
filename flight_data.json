@@ -1,5 +1,5 @@
 {
-    "update_time": "20:20",
+    "update_time": "20:21",
     "flights": [
         {
             "flight_number": "AC 7953",
@@ -94,11 +94,11 @@
         {
             "flight_number": "AC 7713",
             "origin_city": "Ottawa YOW",
-            "origin_time": "20:20",
-            "destination_time": "21:17",
+            "origin_time": "20:16",
+            "destination_time": "21:13",
             "scheduled_time": "20:44",
             "status": "Delayed",
-            "arrival_time_difference": "0:33"
+            "arrival_time_difference": "0:29"
         },
         {
             "flight_number": "AC 7979",
@@ -113,10 +113,10 @@
     "next_flight": {
         "flight_number": "AC 7713",
         "origin_city": "Ottawa YOW",
-        "origin_time": "20:20",
-        "destination_time": "21:17",
+        "origin_time": "20:16",
+        "destination_time": "21:13",
         "scheduled_time": "20:44",
         "status": "Delayed",
-        "arrival_time_difference": "0:33"
+        "arrival_time_difference": "0:29"
     }
 }
