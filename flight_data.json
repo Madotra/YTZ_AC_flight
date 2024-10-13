@@ -1,5 +1,5 @@
 {
-    "update_time": "11:30",
+    "update_time": "11:32",
     "flights": [
         {
             "flight_number": "AC 7953",
@@ -23,10 +23,10 @@
             "flight_number": "AC 7705",
             "origin_city": "Ottawa YOW",
             "origin_time": "10:22",
-            "destination_time": "11:25",
+            "destination_time": "11:26",
             "scheduled_time": "10:44",
-            "status": "Arrived",
-            "arrival_time_difference": "0:41"
+            "status": "Delayed",
+            "arrival_time_difference": "0:42"
         },
         {
             "flight_number": "AC 7959",
