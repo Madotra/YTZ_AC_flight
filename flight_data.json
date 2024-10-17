@@ -1,5 +1,5 @@
 {
-    "update_time": "19:53",
+    "update_time": "19:55",
     "flights": [
         {
             "flight_number": "AC 7953",
@@ -88,7 +88,7 @@
             "origin_time": "18:34",
             "destination_time": "19:50",
             "scheduled_time": "19:49",
-            "status": "Arrived",
+            "status": "On time",
             "arrival_time_difference": "0:01"
         },
         {
