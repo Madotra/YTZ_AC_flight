@@ -1,5 +1,5 @@
 {
-    "update_time": "10:43",
+    "update_time": "10:45",
     "flights": [
         {
             "flight_number": "AC 7953",
@@ -111,12 +111,12 @@
         }
     ],
     "next_flight": {
-        "flight_number": "AC 7705",
-        "origin_city": "Ottawa YOW",
-        "origin_time": "09:40",
-        "destination_time": "10:44",
-        "scheduled_time": "10:44",
-        "status": "Cancelled",
-        "arrival_time_difference": "0:00"
+        "flight_number": "AC 7959",
+        "origin_city": "Montréal YUL",
+        "origin_time": "10:25",
+        "destination_time": "11:34",
+        "scheduled_time": "11:49",
+        "status": "Early",
+        "arrival_time_difference": "0:15"
     }
 }
