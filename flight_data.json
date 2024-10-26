@@ -1,5 +1,5 @@
 {
-    "update_time": "13:50",
+    "update_time": "13:51",
     "flights": [
         {
             "flight_number": "AC 7953",
@@ -40,11 +40,11 @@
         {
             "flight_number": "AC 7965",
             "origin_city": "Montréal YUL",
-            "origin_time": "13:39",
-            "destination_time": "14:59",
+            "origin_time": "13:49",
+            "destination_time": "15:09",
             "scheduled_time": "14:49",
-            "status": "On time",
-            "arrival_time_difference": "0:10"
+            "status": "Delayed",
+            "arrival_time_difference": "0:20"
         },
         {
             "flight_number": "AC 7709",
@@ -104,10 +104,10 @@
     "next_flight": {
         "flight_number": "AC 7965",
         "origin_city": "Montréal YUL",
-        "origin_time": "13:39",
-        "destination_time": "14:59",
+        "origin_time": "13:49",
+        "destination_time": "15:09",
         "scheduled_time": "14:49",
-        "status": "On time",
-        "arrival_time_difference": "0:10"
+        "status": "Delayed",
+        "arrival_time_difference": "0:20"
     }
 }
