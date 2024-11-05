@@ -1,5 +1,5 @@
 {
-    "update_time": "21:43",
+    "update_time": "21:44",
     "flights": [
         {
             "flight_number": "AC 7955",
@@ -97,7 +97,7 @@
             "origin_time": "20:17",
             "destination_time": "21:42",
             "scheduled_time": "21:50",
-            "status": "Early",
+            "status": "Arrived",
             "arrival_time_difference": "0:08"
         }
     ],
